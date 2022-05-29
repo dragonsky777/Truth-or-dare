@@ -1,5 +1,5 @@
 # Truth-or-dare
-Please add you code to make idea come to fruition.
+Please add you code to make the idea come to fruition.
 Code should allow the following:
 -Users to Answer the truth or dare question
 -Rest the question after each answer
