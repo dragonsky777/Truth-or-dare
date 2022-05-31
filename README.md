@@ -4,4 +4,4 @@ Code should allow the following:
 -Users to Answer the truth or dare question
 -Rest the question after each answer
 -keep history of all interactions
--This should be fun :) 
+-This should be fun! Let's play:) 
